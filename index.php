@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Romain Bruzzese - Broken Rock Paper Scissors</title>
+<title>Romain Bruzzese - Rock Paper Scissors</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
-<h1>Welcome to Broken Rock Paper Scissors</h1>
+<h1>Welcome to Rock Paper Scissors</h1>
 <p>
 <strong><a href="login.php"> => Please Log In <= </a></strong>
 </p>
